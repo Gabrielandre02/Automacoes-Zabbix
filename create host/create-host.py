@@ -95,6 +95,7 @@ for [host,ip,community] in f:
         "inventory_mode": 1,
             "inventory": 
                 {
+                "location": cidade,
                 "location_lat": lat,
                 "location_lon": lon
         }

@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 from zabbix_api import ZabbixAPI
 
-ZBX_URL = "http://zabbix-frontend.zabbixsummit.local"
-ZBX_USER = "Admin"
-ZBX_PASSWORD = "zabbix"
+ZBX_URL = ""
+ZBX_USER = ""
+ZBX_PASSWORD = ""
 
 #FAZENDO LOGIN NA API
 try:
